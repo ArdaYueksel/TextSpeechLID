@@ -1,0 +1,14 @@
+,Language,precision,recall,f1-score
+0,Chinese (Traditional),0.532,0.91,0.671
+1,Bosnian,0.761,0.524,0.621
+2,Croatian,0.634,0.834,0.72
+3,Kamba,1.0,0.537,0.699
+4,Chinese (Simplified),0.803,0.297,0.434
+5,Swahili,0.666,0.996,0.798
+6,Malay,0.96,0.939,0.949
+7,Nyanja,0.987,0.916,0.95
+8,Indonesian,0.927,0.958,0.942
+9,Kabuverdianu,1.0,0.927,0.962
+10,micro avg,0.786,0.76,0.773
+11,macro avg,0.827,0.784,0.775
+12,weighted avg,0.827,0.76,0.761
